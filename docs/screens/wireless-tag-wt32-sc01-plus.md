@@ -21,7 +21,7 @@ Community port contributed via [PR #194](https://github.com/jtenniswood/espcontr
 ::: tip Hardware-verified
 This device has been verified on real hardware — it compiles, flashes, and runs EspControl correctly.
 
-Confirmed by @jonnybergdahl at `community-v0.7.2-upstream.v2.8.6`.
+Confirmed by @jonnybergdahl ([#134](https://github.com/lamiskin/espcontrol-community-devices/pull/134)) at `community-v0.7.2-upstream.v2.8.6`.
 :::
 
 ## Specifications
