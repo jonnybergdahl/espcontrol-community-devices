@@ -16,11 +16,17 @@ The **Guition JC8048W550** is a 5-inch landscape
 touchscreen powered by **ESP32-S3**, with room for **15 cards**
 on the home screen.
 
+Community port contributed via [PR #155](https://github.com/lamiskin/espcontrol-community-devices/pull/155) by @jonnybergdahl.
+
 ::: tip Hardware-verified
 This device has been verified on real hardware — it compiles, flashes, and runs EspControl correctly.
 
-Confirmed by @jonnybergdahl at `community-v0.9.1-upstream.v2.9.1`.
+Confirmed by @jonnybergdahl ([#155](https://github.com/lamiskin/espcontrol-community-devices/pull/155)) at `community-v0.9.1-upstream.v2.9.1`.
 :::
+
+|  |
+|:--:|
+| ![Guition JC8048W550 running EspControl](/images/guition-esp32-s3-jc8048w550-verified-1.jpg) |
 
 ## Specifications
 
